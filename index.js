@@ -91,7 +91,7 @@ const generateHTML = (answers) =>
   <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4"> # ${answers.description}</h1>
-    <h3> ## ${answers.toc}.</h3>
+    <p> ${answers.toc}</p>
     <h3> ## How to install?</h3>
     <p> * ${answers.installation}</p>
     <h3> ## Usage</h3>
