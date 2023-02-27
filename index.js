@@ -104,6 +104,7 @@ const generateHTML = (answers) =>
     <p> * ${answers.tests} </p>
     <h3> ## Questions: </h3>
     <p> * ${answers.questions} </p>
+    <p>![Kiku](put your image file name here)</p>
   </div>
 </div>
 </body>
