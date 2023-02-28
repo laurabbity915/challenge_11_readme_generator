@@ -19,3 +19,6 @@ MIT
 * none
 
 ![Kiku](./Screenshot%202023-02-27%20at%2011.47.40%20PM.png)
+
+## Walkthough tutorial video:
+https://drive.google.com/file/d/1qX4qUxBGufIFvnaFH-c5lqQsmBZWixn5/view?usp=sharing
